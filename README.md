@@ -1,1 +1,1 @@
-# My-git-ex
+This project teaches the basics of git branches.
